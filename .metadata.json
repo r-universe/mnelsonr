@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "dsrTest",
+    "oncran": true
+  }
+]
